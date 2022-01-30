@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fahmihui
-- 👀 I’m interested in Data Analytics and Machine Learning.
+- 👀 I’m interested in Data Analytics, Deep Learning & Computer Vision.
 
 - 📫 How to reach me , you can email me at fahmiadzha@gmail.com
 
